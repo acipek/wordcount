@@ -1,5 +1,4 @@
 # wordcount
-Linux wc command with go
 
 Usage of wordcount:
   wordcount <-f | -file> filename [ -c | -chars ] [ -l | -lines ] [ -w | -words ]
